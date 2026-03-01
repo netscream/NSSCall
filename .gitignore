@@ -1,0 +1,9 @@
+# Ignore plaintext config (only encrypted version should be in repo)
+*.xml
+*.txt
+.nsscall.key
+
+# Keep only encrypted data
+nsscall.dat
+README.md
+.gitignore
